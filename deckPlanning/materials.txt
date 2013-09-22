@@ -1,0 +1,14 @@
+posts: 30
+post length = 4'
+railing options = [14', 12', 8']
+railing options = [168", 144", 96"]
+
+
+12' wood required = 10 (11 for safety)
+1/2" bolts = 60 (65)
+1/2" nuts = 60 (65)
+
+1/2" washers = 120 (125)
+
+
+about 10 168"
